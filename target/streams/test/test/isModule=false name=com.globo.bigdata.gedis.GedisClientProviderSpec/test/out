@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mGedisClientProviderSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mwithClient-jedis[0m[0m
+[0m[[0minfo[0m] [0m[32m- execute-operation[0m[0m
+[0m[[0minfo[0m] [0m[32m- execute-error-callback[0m[0m
+[0m[[0minfo[0m] [0m[32mwithClient-pool[0m[0m
+[0m[[0minfo[0m] [0m[32m- execute-operation[0m[0m
+[0m[[0minfo[0m] [0m[32m- execute-error-callback[0m[0m
+[0m[[0minfo[0m] [0m[32mwithPipeline[0m[0m
+[0m[[0minfo[0m] [0m[32m- execute-operations[0m[0m
+[0m[[0minfo[0m] [0m[32m- execute-error-callback[0m[0m

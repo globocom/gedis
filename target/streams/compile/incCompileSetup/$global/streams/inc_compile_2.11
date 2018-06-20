@@ -1,0 +1,644 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.11
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+43 items
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientFactory$$anonfun$$lessinit$greater$default$2$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientFactory$$anonfun$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientFactory$$anonfun$client$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientFactory$$anonfun$client$2.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientFactory$.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientFactory.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$del$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$exists$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$get$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hget$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hgetall$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hincrby$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hkeys$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hmset$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hset$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hsetnx$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$incrby$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$lpush$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$lrange$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$mget$1$$anonfun$apply$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$mget$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$sadd$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$set$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$smembers$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/RedisClient.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider$$anonfun$$lessinit$greater$default$3$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider$$anonfun$withClient$1$$anonfun$apply$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider$$anonfun$withClient$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider$$anonfun$withPipeline$1$$anonfun$apply$2.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider$$anonfun$withPipeline$1.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider$.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/JedisFactory$.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/JedisFactory.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/DefaultSettings$.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/DefaultSettings.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/PoolSettings$.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/PoolSettings.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/SentinelSettings$.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/SentinelSettings.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/SingleSettings$.class
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/SingleSettings.class
+binary dependencies:
+19 items
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/.ivy2/cache/redis.clients/jedis/jars/jedis-2.9.0.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/.ivy2/cache/redis.clients/jedis/jars/jedis-2.9.0.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> /Users/diogo.munaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> /Users/diogo.munaro/.ivy2/cache/redis.clients/jedis/jars/jedis-2.9.0.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> /Users/diogo.munaro/.ivy2/cache/org.apache.commons/commons-pool2/jars/commons-pool2-2.4.2.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> /Users/diogo.munaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> /Users/diogo.munaro/.ivy2/cache/redis.clients/jedis/jars/jedis-2.9.0.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> /Users/diogo.munaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> /Users/diogo.munaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> /Users/diogo.munaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+11 items
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+43 items
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> com.globo.bigdata.gedis.GedisClientFactory
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> com.globo.bigdata.gedis.GedisClientFactory$
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> com.globo.bigdata.gedis.GedisClientFactory$$anonfun$$lessinit$greater$default$2$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> com.globo.bigdata.gedis.GedisClientFactory$$anonfun$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> com.globo.bigdata.gedis.GedisClientFactory$$anonfun$client$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> com.globo.bigdata.gedis.GedisClientFactory$$anonfun$client$2
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$del$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$exists$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$get$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$hget$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$hgetall$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$hincrby$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$hkeys$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$hmset$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$hset$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$hsetnx$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$incrby$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$lpush$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$lrange$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$mget$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$mget$1$$anonfun$apply$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$sadd$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$set$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.GedisClient$$anonfun$smembers$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com.globo.bigdata.gedis.RedisClient
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> com.globo.bigdata.gedis.GedisClientProvider
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> com.globo.bigdata.gedis.GedisClientProvider$
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> com.globo.bigdata.gedis.GedisClientProvider$$anonfun$$lessinit$greater$default$3$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> com.globo.bigdata.gedis.GedisClientProvider$$anonfun$withClient$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> com.globo.bigdata.gedis.GedisClientProvider$$anonfun$withClient$1$$anonfun$apply$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> com.globo.bigdata.gedis.GedisClientProvider$$anonfun$withPipeline$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> com.globo.bigdata.gedis.GedisClientProvider$$anonfun$withPipeline$1$$anonfun$apply$2
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> com.globo.bigdata.gedis.JedisFactory
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> com.globo.bigdata.gedis.JedisFactory$
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> com.globo.bigdata.gedis.settings.DefaultSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> com.globo.bigdata.gedis.settings.DefaultSettings$
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> com.globo.bigdata.gedis.settings.PoolSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> com.globo.bigdata.gedis.settings.PoolSettings$
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> com.globo.bigdata.gedis.settings.SentinelSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> com.globo.bigdata.gedis.settings.SentinelSettings$
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> com.globo.bigdata.gedis.settings.SingleSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> com.globo.bigdata.gedis.settings.SingleSettings$
+used names:
+381 items
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> <init>
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> Any
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> AnyRef
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> B
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> Function1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> GedisClient
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> GedisClientFactory
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> GedisClientProvider
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> Jedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> JedisFactory
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> JedisSentinelPool
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> None
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> Nothing
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> Object
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> Option
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> SentinelSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> SingleSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> Throwable
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> Unit
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> _root_
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> bigdata
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> com
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> errorCallback
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> gedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> globo
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> instance
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> jedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> jedisFactory
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> map
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> package
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> s
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> sentinelSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> settings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> singleSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> x$1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> x$2
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> $conforms
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> <:<
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> <init>
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> <repeated...>
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> <repeated>
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> A
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Any
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> AnyRef
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> AsJava
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> AsScala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> B
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Boolean
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Boolean2boolean
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Buffer
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> CanBuildFrom
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Coll
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Decorators
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Function1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> GedisClient
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> GedisClientProvider
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> JavaConverters
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Jedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> List
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Long
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Long2long
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Map
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Nothing
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Object
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Option
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Pipeline
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Predef
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> RedisClient
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Seq
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Set
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> String
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> T
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> That
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Tuple2
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> U
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> Unit
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> _root_
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> amount
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> apply
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> asJava
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> asScala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> asScalaBufferConverter
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> asScalaSetConverter
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> bigdata
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> c
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> canBuildFrom
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> clients
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> collection
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> com
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> del
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> end
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> exists
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> field
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> gedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> get
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> globo
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> hget
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> hgetAll
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> hincrBy
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> hkeys
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> hmset
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> hset
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> hsetnx
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> incrBy
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> item
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> jedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> key
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> keys
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> lpush
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> lrange
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> map
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> mapAsJavaMapConverter
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> mapAsScalaMapConverter
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> mget
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> mutable
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> package
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> pipelinedFunction
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> provider
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> redis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> sadd
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> set
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> smembers
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> start
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> toList
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> toMap
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> toSet
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> value
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> values
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> withClient
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> withPipeline
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> <byname>
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> <init>
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> Any
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> AnyRef
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> B
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> Boolean
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> Function1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> GedisClientProvider
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> Jedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> JedisSentinelPool
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> None
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> Nothing
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> Object
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> Option
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> Pipeline
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> T
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> Throwable
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> Unit
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> _root_
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> apply
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> bigdata
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> c
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> client
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> clients
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> close
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> code
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> com
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> errorCallback
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> exceptionTrap
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> f
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> gedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> get
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> getResource
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> globo
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> isDefined
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> jedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> package
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> pipeline
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> pipelined
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> pool
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> redis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> single
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> sync
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> t
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> useClientAndClose
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> usePipelineAndSync
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> withClient
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> <init>
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> A
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> Any
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> AnyRef
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> AsJava
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> Decorators
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> GenericObjectPoolConfig
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> Int
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> JavaConverters
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> Jedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> JedisFactory
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> JedisPoolConfig
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> JedisSentinelPool
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> Long
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> Nothing
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> Object
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> Option
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> PoolSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> Predef
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> Protocol
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> SentinelSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> Set
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> SingleSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> String
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> Unit
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> asJava
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> bigdata
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> clients
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> collection
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> com
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> conf
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> connectionTimeout
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> gedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> get
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> globo
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> host
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> instance
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> jedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> jedisPool
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> master
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> maxIdle
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> maxTotal
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> maxWaitInMillis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> minIdle
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> password
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> pool
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> port
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> redis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> s
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> sentinels
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> setAsJavaSetConverter
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> setMaxIdle
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> setMaxTotal
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> setMaxWaitMillis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> setMinIdle
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> settings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> socketTimeout
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> toLong
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> <init>
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> AnyRef
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> DefaultSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> Int
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> None
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> Object
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> Option
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> PoolSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> Predef
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> String
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> bigdata
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> com
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> connectionTimeout
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> gedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> globo
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> host
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> password
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> pool
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> port
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> settings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> socketTimeout
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> &&
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> <init>
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> ==
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> A
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> AbstractFunction4
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> AbstractFunction6
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Any
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> AnyRef
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Boolean
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> DefaultSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> IndexOutOfBoundsException
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Int
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Iterator
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> None
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Nothing
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Object
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Option
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> PoolSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Predef
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Product
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> ScalaRunTime
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> SentinelSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Serializable
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Set
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Some
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Statics
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> String
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> T
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> T0
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> T1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> T2
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> T3
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> T4
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> T5
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> T6
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Tuple4
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> Tuple6
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> _toString
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> anyHash
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> asInstanceOf
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> bigdata
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> com
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> connectionTimeout
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> eq
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> finalizeHash
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> gedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> globo
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> isInstanceOf
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> master
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> maxIdle
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> maxTotal
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> maxWaitInMillis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> minIdle
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> mix
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> package
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> password
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> pool
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> runtime
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> sentinels
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> settings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> socketTimeout
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> toString
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> typedProductIterator
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> ||
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> &&
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> <init>
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> ==
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> A
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> AbstractFunction5
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Any
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> AnyRef
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Boolean
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> DefaultSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> IndexOutOfBoundsException
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Int
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Iterator
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> None
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Nothing
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Object
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Option
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Predef
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Product
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> ScalaRunTime
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Serializable
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> SingleSettings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Some
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Statics
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> String
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> T
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> T0
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> T1
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> T2
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> T3
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> T4
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> T5
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> Tuple5
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> _toString
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> anyHash
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> asInstanceOf
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> bigdata
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> com
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> connectionTimeout
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> eq
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> finalizeHash
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> gedis
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> globo
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> host
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> isInstanceOf
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> mix
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> package
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> password
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> port
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> runtime
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> scala
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> settings
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> socketTimeout
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> toString
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> typedProductIterator
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> ||
+product stamps:
+43 items
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$del$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$exists$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$get$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hget$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hgetall$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hincrby$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hkeys$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hmset$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hset$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$hsetnx$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$incrby$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$lpush$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$lrange$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$mget$1$$anonfun$apply$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$mget$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$sadd$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$set$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient$$anonfun$smembers$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClient.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientFactory$$anonfun$$lessinit$greater$default$2$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientFactory$$anonfun$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientFactory$$anonfun$client$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientFactory$$anonfun$client$2.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientFactory$.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientFactory.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider$$anonfun$$lessinit$greater$default$3$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider$$anonfun$withClient$1$$anonfun$apply$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider$$anonfun$withClient$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider$$anonfun$withPipeline$1$$anonfun$apply$2.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider$$anonfun$withPipeline$1.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider$.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/GedisClientProvider.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/JedisFactory$.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/JedisFactory.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/RedisClient.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/DefaultSettings$.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/DefaultSettings.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/PoolSettings$.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/PoolSettings.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/SentinelSettings$.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/SentinelSettings.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/SingleSettings$.class -> lastModified(1529531690000)
+/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes/com/globo/bigdata/gedis/settings/SingleSettings.class -> lastModified(1529531690000)
+source stamps:
+7 items
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> hash(5841adeea0c683ad2ac868285035b6346533a6a9)
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> hash(666645ef5d965f278b2e153052cde675641b94ec)
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> hash(10aa125044d8f882c2314560f1ec7d6a76405019)
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> hash(f22f40cc9e3a76f358c7e168d00ce974228ee9cb)
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> hash(f4f52f58f0bf93a0e94fac894be87c0569faecbd)
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> hash(3ac1bfb520c1e34bdc165bf82c6e5bba05f8d700)
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> hash(d8ddb539ccfebc7b0f54e9d8b539e3184b7a4453)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/diogo.munaro/.ivy2/cache/org.apache.commons/commons-pool2/jars/commons-pool2-2.4.2.jar -> lastModified(1438136410000)
+/Users/diogo.munaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> lastModified(1492113025000)
+/Users/diogo.munaro/.ivy2/cache/redis.clients/jedis/jars/jedis-2.9.0.jar -> lastModified(1469192019000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/diogo.munaro/.ivy2/cache/org.apache.commons/commons-pool2/jars/commons-pool2-2.4.2.jar -> org.apache.commons.pool2.impl.GenericObjectPoolConfig
+/Users/diogo.munaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> scala.Serializable
+/Users/diogo.munaro/.ivy2/cache/redis.clients/jedis/jars/jedis-2.9.0.jar -> redis.clients.jedis.JedisSentinelPool
+internal apis:
+7 items
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwEiSYEwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHtitWnQABm5vdGlmeXNxAH4ADHt+k0Z0AAR3YWl0c3EAfgAM4Rtys3QADSRhc0luc3RhbmNlT2ZzcQB+AAwwVadBdAAQPGluaXQ+JGRlZmF1bHQkMXNxAH4ADPThXzB0AAZlcXVhbHNzcQB+AAxUkXEAdAAMYXNJbnN0YW5jZU9mc3EAfgAMVg3MrHQADHN5bmNocm9uaXplZHNxAH4ADMhAmdB0AA0kaXNJbnN0YW5jZU9mc3EAfgAM1Y8y03QACGluc3RhbmNlc3EAfgAMqH9VmnQACW5vdGlmeUFsbHNxAH4ADAXt5YR0AAxpc0luc3RhbmNlT2ZzcQB+AAwgXx+3dAAQY2xpZW50JGRlZmF1bHQkMnNxAH4ADM8e3WZ0AAY8aW5pdD5zcQB+AAwc2Mc8dAACPT1zcQB+AAwy5Q5EdAAFY2xvbmVzcQB+AAyNRGt0dAAGY2xpZW50c3EAfgAM3e7NEXQAEkdlZGlzQ2xpZW50RmFjdG9yeXNxAH4ADHtzPc50ABBjbGllbnQkZGVmYXVsdCQxc3EAfgAMT2kva3QADWVycm9yQ2FsbGJhY2tzcQB+AAzQne85dAAIdG9TdHJpbmdzcQB+AAyYDVf3dAACIT1zcQB+AAz26LAVdAAIZ2V0Q2xhc3NzcQB+AAxqozjHdAACbmVzcQB+AAxyO4xbdAAQPGluaXQ+JGRlZmF1bHQkMnNxAH4ADD3hEHZ0AAJlcXNxAH4ADOwNJaF0AAIjI3NxAH4ADD9CQuZ0AAhmaW5hbGl6ZXNxAH4ADHSNqdh0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACpjb20uZ2xvYm8uYmlnZGF0YS5nZWRpcy5HZWRpc0NsaWVudEZhY3Rvcnl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AT0wACWluaGVyaXRlZHEAfgBPTAAHcGFyZW50c3EAfgBPeHEAfgBsc3EAfgBndXEAfgBKAAAAAHNxAH4AZ3VxAH4ASgAAAABzcQB+AGd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGt0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIR0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIVzcQB+AHh0AANBbnlzcQB+AHxzcQB+AH91cQB+AIIAAAACc3EAfgCEdAAFc2NhbGFxAH4Ai3NxAH4ATHEAfgBZdXEAfgBaAAAAAHNxAH4AXAB0ACpjb20uZ2xvYm8uYmlnZGF0YS5nZWRpcy5HZWRpc0NsaWVudEZhY3Rvcnl1cQB+AF8AAAAAfnEAfgBhdAAIQ2xhc3NEZWZ1cQB+AGUAAAAAc3EAfgBncQB+AG1zcQB+AGdzcQB+AG9zcQB+AGd1cQB+AEoAAAAAc3EAfgBndXEAfgBKAAAAAHNxAH4AZ3VxAH4AdgAAAAJzcQB+AHhxAH4Ae3NxAH4AfHNxAH4Af3VxAH4AggAAAANzcQB+AIRxAH4Ah3NxAH4AhHEAfgCJcQB+AItzcQB+AHhxAH4AjXNxAH4AfHNxAH4Af3VxAH4AggAAAAJzcQB+AIRxAH4AknEAfgCLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJY29tLmdsb2Jvc3EAfgCxdAAXY29tLmdsb2JvLmJpZ2RhdGEuZ2VkaXNzcQB+ALF0ABFjb20uZ2xvYm8uYmlnZGF0YXNxAH4AsXQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZB8xTGl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L1VzZXJzL2Rpb2dvLm11bmFyby93b3Jrc3BhY2UvZ2VkaXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFhBre6gxoOtKshoKFA1tjRlM6ap
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8u7sawAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAoc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwt2mVdnQAA2RlbHNxAH4ADE9g16h0AAZub3RpZnlzcQB+AAz0l03udAAEd2FpdHNxAH4ADHfISKR0AARzYWRkc3EAfgAMTC3IV3QADSRhc0luc3RhbmNlT2ZzcQB+AAzB8/P2dAAGZXF1YWxzc3EAfgAMvV4tpXQABWhtc2V0c3EAfgAMQvyJ2XQADGFzSW5zdGFuY2VPZnNxAH4ADJHMywl0AAdoaW5jcmJ5c3EAfgAMpPU1vHQAA3NldHNxAH4ADJCeM510AAZoc2V0bnhzcQB+AAykOyKvdAAGbHJhbmdlc3EAfgAMIJfOHXQADHN5bmNocm9uaXplZHNxAH4ADElbcap0AA0kaXNJbnN0YW5jZU9mc3EAfgAMxgTTf3QABWhrZXlzc3EAfgAMQXSDu3QABGhnZXRzcQB+AAy0wIoOdAAJbm90aWZ5QWxsc3EAfgAMbQpmonQACHBpcGVsaW5lc3EAfgAM+NtjFHQABWxwdXNoc3EAfgAMQcYBm3QACHNtZW1iZXJzc3EAfgAM/BUCYHQADGlzSW5zdGFuY2VPZnNxAH4ADEo+Txp0AAtHZWRpc0NsaWVudHNxAH4ADPyer+50AAY8aW5pdD5zcQB+AAxhXdLSdAAEbWdldHNxAH4ADAtf7BB0AARoc2V0c3EAfgAMp3GeCXQAAj09c3EAfgAMMMcCpHQABWNsb25lc3EAfgAMMxQX1nQABmV4aXN0c3NxAH4ADAJSBpJ0AAh0b1N0cmluZ3NxAH4ADLGpzwp0AAZpbmNyYnlzcQB+AAw8uhMKdAACIT1zcQB+AAzINzQRdAADZ2V0c3EAfgAMTqZvm3QAC1JlZGlzQ2xpZW50c3EAfgAM1KbasnQACGdldENsYXNzc3EAfgAMOu0LAnQAB2hnZXRhbGxzcQB+AAxMaht/dAACbmVzcQB+AAy864ZqdAACZXFzcQB+AAzqn0UCdAACIyNzcQB+AAyBXE7vdAAIZmluYWxpemVzcQB+AAzYc+RadAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAjY29tLmdsb2JvLmJpZ2RhdGEuZ2VkaXMuUmVkaXNDbGllbnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Af3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBnTAAJaW5oZXJpdGVkcQB+AGdMAAdwYXJlbnRzcQB+AGd4cQB+AIRzcQB+AH91cQB+AGIAAAAAc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ag3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ag3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AnHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnXNxAH4AkHQAA0FueXNxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJx0AAVzY2FsYXEAfgCjc3EAfgBkcQB+AHF1cQB+AHIAAAAAc3EAfgB0AHQAI2NvbS5nbG9iby5iaWdkYXRhLmdlZGlzLkdlZGlzQ2xpZW50dXEAfgB3AAAAAH5xAH4AeXQACENsYXNzRGVmdXEAfgB9AAAAAHNxAH4Af3EAfgCFc3EAfgB/c3EAfgCHc3EAfgB/dXEAfgBiAAAAAHNxAH4Af3VxAH4AYgAAAABzcQB+AH91cQB+AI4AAAADc3EAfgCQdAALUmVkaXNDbGllbnRzcQB+AJRzcQB+AJd1cQB+AJoAAAAFc3EAfgCcdAADY29tc3EAfgCcdAAFZ2xvYm9zcQB+AJx0AAdiaWdkYXRhc3EAfgCcdAAFZ2VkaXNxAH4Ao3NxAH4AkHEAfgCTc3EAfgCUc3EAfgCXdXEAfgCaAAAAA3NxAH4AnHEAfgCfc3EAfgCccQB+AKFxAH4Ao3NxAH4AkHEAfgClc3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHEAfgCqcQB+AKN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAljb20uZ2xvYm9zcQB+ANZ0ABdjb20uZ2xvYm8uYmlnZGF0YS5nZWRpc3NxAH4A1nQAEWNvbS5nbG9iby5iaWdkYXRhc3EAfgDWdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFkHzFMaXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD0vVXNlcnMvZGlvZ28ubXVuYXJvL3dvcmtzcGFjZS9nZWRpcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUZmZF712WXyeLLhUwUs3mdWQblOw=
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw4mZ92gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhtvZ/XQABm5vdGlmeXNxAH4ADMVuYCx0AAR3YWl0c3EAfgAMkvPjFXQADSRhc0luc3RhbmNlT2ZzcQB+AAzKFve4dAAGZXF1YWxzc3EAfgAMCzft1nQADGFzSW5zdGFuY2VPZnNxAH4ADJXFA590AAx3aXRoUGlwZWxpbmVzcQB+AAygtWkUdAAMc3luY2hyb25pemVkc3EAfgAMdZlMK3QADSRpc0luc3RhbmNlT2ZzcQB+AAz51vsEdAAJbm90aWZ5QWxsc3EAfgAMoDsTl3QACndpdGhDbGllbnRzcQB+AAxCPlQRdAAMaXNJbnN0YW5jZU9mc3EAfgAMepcggHQABjxpbml0PnNxAH4ADF5cQhh0ABNHZWRpc0NsaWVudFByb3ZpZGVyc3EAfgAMTaF7KHQAAj09c3EAfgAMxtMIFHQABWNsb25lc3EAfgAMbrv0kHQACHRvU3RyaW5nc3EAfgAMy0IF43QAAiE9c3EAfgAMCifcK3QACGdldENsYXNzc3EAfgAMInxQonQAAm5lc3EAfgAM3ZOQoXQAAmVxc3EAfgAMF2y7tHQAAiMjc3EAfgAMOxtVFnQACGZpbmFsaXplc3EAfgAMzy5v5XQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAK2NvbS5nbG9iby5iaWdkYXRhLmdlZGlzLkdlZGlzQ2xpZW50UHJvdmlkZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGJzcQB+AF11cQB+AEAAAAAAc3EAfgBddXEAfgBAAAAAAHNxAH4AXXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJY29tLmdsb2Jvc3EAfgCLdAAXY29tLmdsb2JvLmJpZ2RhdGEuZ2VkaXNzcQB+AIt0ABFjb20uZ2xvYm8uYmlnZGF0YXNxAH4Ai3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZB8xTGl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L1VzZXJzL2Rpb2dvLm11bmFyby93b3Jrc3BhY2UvZ2VkaXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBCqElBE2PiCwjFFYPHsfWp2QFAZ
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwHcTEYAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwQz4bFHQABm5vdGlmeXNxAH4ADFS/1SF0AAR3YWl0c3EAfgAMH3A4V3QADSRhc0luc3RhbmNlT2ZzcQB+AAzVfkKqdAAGZXF1YWxzc3EAfgAM8+vyj3QADGFzSW5zdGFuY2VPZnNxAH4ADBM62cR0AAVqZWRpc3NxAH4ADMGxtNh0AAxzeW5jaHJvbml6ZWRzcQB+AAwWvlN+dAANJGlzSW5zdGFuY2VPZnNxAH4ADBpYKtx0AAhpbnN0YW5jZXNxAH4ADPjiOVh0AAlub3RpZnlBbGxzcQB+AAyLRavcdAAMaXNJbnN0YW5jZU9mc3EAfgAMDeEMNXQABjxpbml0PnNxAH4ADBbmUyN0AAI9PXNxAH4ADI/U+VN0AAVjbG9uZXNxAH4ADJC+19p0AAh0b1N0cmluZ3NxAH4ADMw37NJ0AAIhPXNxAH4ADJ8qqL50AAhnZXRDbGFzc3NxAH4ADC4uu6t0AAxKZWRpc0ZhY3RvcnlzcQB+AAw/PAxudAACbmVzcQB+AAyCx21CdAACZXFzcQB+AAxnf21gdAACIyNzcQB+AAwPEckUdAAIZmluYWxpemVzcQB+AAzhAcC1dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAkY29tLmdsb2JvLmJpZ2RhdGEuZ2VkaXMuSmVkaXNGYWN0b3J5dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYnNxAH4AXXVxAH4AQAAAAABzcQB+AF11cQB+AEAAAAAAc3EAfgBddXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB6dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7c3EAfgBudAADQW55c3EAfgByc3EAfgB1dXEAfgB4AAAAAnNxAH4AenQABXNjYWxhcQB+AIFzcQB+AEJxAH4AT3VxAH4AUAAAAABzcQB+AFIAdAAkY29tLmdsb2JvLmJpZ2RhdGEuZ2VkaXMuSmVkaXNGYWN0b3J5dXEAfgBVAAAAAH5xAH4AV3QACENsYXNzRGVmdXEAfgBbAAAAAHNxAH4AXXEAfgBjc3EAfgBdc3EAfgBlc3EAfgBddXEAfgBAAAAAAHNxAH4AXXVxAH4AQAAAAABzcQB+AF11cQB+AGwAAAACc3EAfgBucQB+AHFzcQB+AHJzcQB+AHV1cQB+AHgAAAADc3EAfgB6cQB+AH1zcQB+AHpxAH4Af3EAfgCBc3EAfgBucQB+AINzcQB+AHJzcQB+AHV1cQB+AHgAAAACc3EAfgB6cQB+AIhxAH4AgXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWNvbS5nbG9ib3NxAH4Ap3QAF2NvbS5nbG9iby5iaWdkYXRhLmdlZGlzc3EAfgCndAARY29tLmdsb2JvLmJpZ2RhdGFzcQB+AKd0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWQfMUxpdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPS9Vc2Vycy9kaW9nby5tdW5hcm8vd29ya3NwYWNlL2dlZGlzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTyL0DMnjp281jH4WjQDOl0Io7pyw==
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwBoXL4wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdavqQ3QABm5vdGlmeXNxAH4ADB/GbbZ0AAR3YWl0c3EAfgAMh9Wj6XQADSRhc0luc3RhbmNlT2ZzcQB+AAwIAaSydAAGZXF1YWxzc3EAfgAMhRcBv3QADGFzSW5zdGFuY2VPZnNxAH4ADNMXG3t0AARob3N0c3EAfgAMy+OewHQADHN5bmNocm9uaXplZHNxAH4ADHv7e250AA0kaXNJbnN0YW5jZU9mc3EAfgAMpbPvtXQAD0RlZmF1bHRTZXR0aW5nc3NxAH4ADIJcZYh0AAlub3RpZnlBbGxzcQB+AAyBxX+WdAAMaXNJbnN0YW5jZU9mc3EAfgAMnOtlYnQABjxpbml0PnNxAH4ADJ/Em+h0AARwb3J0c3EAfgAM6ejcjnQAAj09c3EAfgAMT8XNTXQABWNsb25lc3EAfgAMg002L3QABHBvb2xzcQB+AAwpSgvndAAIdG9TdHJpbmdzcQB+AAyTPhq7dAARY29ubmVjdGlvblRpbWVvdXRzcQB+AAw89Q6sdAACIT1zcQB+AAwNMVXSdAAIZ2V0Q2xhc3NzcQB+AAy7dqTHdAANc29ja2V0VGltZW91dHNxAH4ADCmrF5l0AAJuZXNxAH4ADJqp/OB0AAJlcXNxAH4ADHWltT90AAIjI3NxAH4ADHr8gK90AAhmaW5hbGl6ZXNxAH4ADFzJYqh0AAhoYXNoQ29kZXNxAH4ADNxGWp10AAhwYXNzd29yZHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ADBjb20uZ2xvYm8uYmlnZGF0YS5nZWRpcy5zZXR0aW5ncy5EZWZhdWx0U2V0dGluZ3N1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBqc3EAfgBldXEAfgBIAAAAAHNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AINzcQB+AHZ0AANBbnlzcQB+AHpzcQB+AH11cQB+AIAAAAACc3EAfgCCdAAFc2NhbGFxAH4AiXNxAH4ASnEAfgBXdXEAfgBYAAAAAHNxAH4AWgB0ADBjb20uZ2xvYm8uYmlnZGF0YS5nZWRpcy5zZXR0aW5ncy5EZWZhdWx0U2V0dGluZ3N1cQB+AF0AAAAAfnEAfgBfdAAIQ2xhc3NEZWZ1cQB+AGMAAAAAc3EAfgBlcQB+AGtzcQB+AGVzcQB+AG1zcQB+AGV1cQB+AEgAAAAAc3EAfgBldXEAfgBIAAAAAHNxAH4AZXVxAH4AdAAAAAJzcQB+AHZxAH4AeXNxAH4AenNxAH4AfXVxAH4AgAAAAANzcQB+AIJxAH4AhXNxAH4AgnEAfgCHcQB+AIlzcQB+AHZxAH4Ai3NxAH4AenNxAH4AfXVxAH4AgAAAAAJzcQB+AIJxAH4AkHEAfgCJdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAVzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJY29tLmdsb2Jvc3EAfgCvdAAXY29tLmdsb2JvLmJpZ2RhdGEuZ2VkaXNzcQB+AK90ABFjb20uZ2xvYm8uYmlnZGF0YXNxAH4Ar3QAA2NvbXNxAH4Ar3QAIGNvbS5nbG9iby5iaWdkYXRhLmdlZGlzLnNldHRpbmdzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFkHzFMaXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD0vVXNlcnMvZGlvZ28ubXVuYXJvL3dvcmtzcGFjZS9nZWRpcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU9PUvWPC/k6DpT6yJS+h8BWn67L0=
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwTv7C9wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAtc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwCrBXN3QABm5vdGlmeXNxAH4ADH3lA610AAR3YWl0c3EAfgAMSTj8rnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMC9ZoKHQADSRhc0luc3RhbmNlT2ZzcQB+AAwPm4mkdAAOY29weSRkZWZhdWx0JDVzcQB+AAyDAFZpdAAMUG9vbFNldHRpbmdzc3EAfgAMHaCc4HQADHByb2R1Y3RBcml0eXNxAH4ADJUFIEh0AAZtYXN0ZXJzcQB+AAy9grKUdAAGZXF1YWxzc3EAfgAMvBNaZ3QAD21heFdhaXRJbk1pbGxpc3NxAH4ADFJHpCV0AAxhc0luc3RhbmNlT2ZzcQB+AAy88e+SdAAMc3luY2hyb25pemVkc3EAfgAMDfju6nQADSRpc0luc3RhbmNlT2ZzcQB+AAyMFjr+dAAIY2FuRXF1YWxzcQB+AAz1fryBdAAOY29weSRkZWZhdWx0JDRzcQB+AAx6lHKKdAANcHJvZHVjdFByZWZpeHNxAH4ADIl2HMF0AAhtYXhUb3RhbHNxAH4ADB5L8D50AAlub3RpZnlBbGxzcQB+AAwm3aP+dAAHbWF4SWRsZXNxAH4ADAdjnqB0AAxpc0luc3RhbmNlT2ZzcQB+AAzvlAFxdAAGPGluaXQ+c3EAfgAMa+2eCHQAAj09c3EAfgAM9mMR0HQABWNsb25lc3EAfgAMI8NTUnQABHBvb2xzcQB+AAyOCshddAAGJGluaXQkc3EAfgAMGavkm3QAEFNlbnRpbmVsU2V0dGluZ3NzcQB+AAxmUGM7dAAOY29weSRkZWZhdWx0JDNzcQB+AAzfAU46dAAEY29weXNxAH4ADDeWFAp0AAh0b1N0cmluZ3NxAH4ADKOcDzB0ABFjb25uZWN0aW9uVGltZW91dHNxAH4ADAC48dV0AAIhPXNxAH4ADLpfxHJ0AAlzZW50aW5lbHNzcQB+AAx2KtZtdAAIZ2V0Q2xhc3NzcQB+AAxDQKn6dAANc29ja2V0VGltZW91dHNxAH4ADO/HHwx0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADOuI4ZR0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADHuxOzx0AAJuZXNxAH4ADO6yuh10AAdtaW5JZGxlc3EAfgAMBpXGxHQAAmVxc3EAfgAM5SQMVHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHWv4At0AAIjI3NxAH4ADNq2/Mh0AAhmaW5hbGl6ZXNxAH4ADLX/xqd0AA5wcm9kdWN0RWxlbWVudHNxAH4ADBnOaPx0AAhoYXNoQ29kZXNxAH4ADEbvSbN0AAhwYXNzd29yZHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AC1jb20uZ2xvYm8uYmlnZGF0YS5nZWRpcy5zZXR0aW5ncy5Qb29sU2V0dGluZ3N1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AiXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBxTAAJaW5oZXJpdGVkcQB+AHFMAAdwYXJlbnRzcQB+AHF4cQB+AI5zcQB+AIl1cQB+AGwAAAAAc3EAfgCJdXEAfgBsAAAAAHNxAH4AiXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AjXQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ap3NxAH4AmnEAfgCdc3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnQABGphdmFzcQB+AKZ0AAJpb3EAfgCrc3EAfgCadAAHUHJvZHVjdHEAfgCgc3EAfgCadAAGRXF1YWxzcQB+AKBzcQB+AJp0AAZPYmplY3RzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+ALFzcQB+AKZ0AARsYW5ncQB+AKtzcQB+AJp0AANBbnlxAH4AoHNxAH4AbnEAfgB7dXEAfgB8AAAAAHNxAH4AfgB0ADFjb20uZ2xvYm8uYmlnZGF0YS5nZWRpcy5zZXR0aW5ncy5TZW50aW5lbFNldHRpbmdzdXEAfgCBAAAAAHEAfgCFdXEAfgCHAAAAAHNxAH4AiXEAfgCPc3EAfgCJc3EAfgCRc3EAfgCJdXEAfgBsAAAAAHNxAH4AiXVxAH4AbAAAAABzcQB+AIl1cQB+AJgAAAAGc3EAfgCacQB+AJ1zcQB+AJ5zcQB+AKF1cQB+AKQAAAACc3EAfgCmcQB+AKlxAH4Aq3NxAH4AmnEAfgCdc3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnEAfgCxc3EAfgCmdAACaW9xAH4Aq3NxAH4AmnEAfgC1cQB+ANJzcQB+AJp0AAZFcXVhbHNxAH4A0nNxAH4AmnEAfgC5c3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnEAfgCxc3EAfgCmcQB+AL9xAH4Aq3NxAH4AmnEAfgDBcQB+ANJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAljb20uZ2xvYm9zcQB+AOl0ABdjb20uZ2xvYm8uYmlnZGF0YS5nZWRpc3NxAH4A6XQAEWNvbS5nbG9iby5iaWdkYXRhc3EAfgDpdAADY29tc3EAfgDpdAAgY29tLmdsb2JvLmJpZ2RhdGEuZ2VkaXMuc2V0dGluZ3NzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWQfMUxpdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPS9Vc2Vycy9kaW9nby5tdW5hcm8vd29ya3NwYWNlL2dlZGlzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ6wb+1IMHjS9wWW/gsblu6BfjXAA==
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8tWFaAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfOQBfHQABm5vdGlmeXNxAH4ADMJBGWV0AAR3YWl0c3EAfgAMx/jIbnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMGZOV9nQADSRhc0luc3RhbmNlT2ZzcQB+AAx88M0tdAAOY29weSRkZWZhdWx0JDVzcQB+AAyBcop8dAAMcHJvZHVjdEFyaXR5c3EAfgAM/juMWXQABmVxdWFsc3NxAH4ADKJo8KF0AA5TaW5nbGVTZXR0aW5nc3NxAH4ADOVj0mJ0AAxhc0luc3RhbmNlT2ZzcQB+AAyFoyIldAAEaG9zdHNxAH4ADF63Y1F0AAxzeW5jaHJvbml6ZWRzcQB+AAy5fgWsdAANJGlzSW5zdGFuY2VPZnNxAH4ADIxpfeh0AAhjYW5FcXVhbHNxAH4ADL7xq2R0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADFj7nt50AA1wcm9kdWN0UHJlZml4c3EAfgAMfVW5LnQACW5vdGlmeUFsbHNxAH4ADKbzq/B0AAxpc0luc3RhbmNlT2ZzcQB+AAxqVspAdAAGPGluaXQ+c3EAfgAMX93Ci3QABHBvcnRzcQB+AAz6VRNfdAACPT1zcQB+AAzc7NGRdAAFY2xvbmVzcQB+AAxcWbJQdAAGJGluaXQkc3EAfgAMDeHCpHQADmNvcHkkZGVmYXVsdCQzc3EAfgAMy4ac13QABGNvcHlzcQB+AAw8u3O0dAAIdG9TdHJpbmdzcQB+AAxeC0+ddAARY29ubmVjdGlvblRpbWVvdXRzcQB+AAw6luGudAACIT1zcQB+AAwtZqledAAIZ2V0Q2xhc3NzcQB+AAwNP6TVdAANc29ja2V0VGltZW91dHNxAH4ADCJulmV0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADJA3/RR0AAJuZXNxAH4ADCPgX7J0AAJlcXNxAH4ADGVFiOd0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwxxMWjdAACIyNzcQB+AAwzolQWdAAIZmluYWxpemVzcQB+AAyrO5rPdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAyUcMkgdAAIaGFzaENvZGVzcQB+AAxscwMhdAAIcGFzc3dvcmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAvY29tLmdsb2JvLmJpZ2RhdGEuZ2VkaXMuc2V0dGluZ3MuU2luZ2xlU2V0dGluZ3N1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ae3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBjTAAJaW5oZXJpdGVkcQB+AGNMAAdwYXJlbnRzcQB+AGN4cQB+AIBzcQB+AHt1cQB+AF4AAAAAc3EAfgB7dXEAfgBeAAAAAHNxAH4Ae3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Af3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Af3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AmXNxAH4AjHEAfgCPc3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHQABGphdmFzcQB+AJh0AAJpb3EAfgCdc3EAfgCMdAAHUHJvZHVjdHEAfgCSc3EAfgCMdAAGRXF1YWxzcQB+AJJzcQB+AIx0AAZPYmplY3RzcQB+AJBzcQB+AJN1cQB+AJYAAAADc3EAfgCYcQB+AKNzcQB+AJh0AARsYW5ncQB+AJ1zcQB+AIx0AANBbnlxAH4AknVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAFc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWNvbS5nbG9ib3NxAH4AtnQAF2NvbS5nbG9iby5iaWdkYXRhLmdlZGlzc3EAfgC2dAARY29tLmdsb2JvLmJpZ2RhdGFzcQB+ALZ0AANjb21zcQB+ALZ0ACBjb20uZ2xvYm8uYmlnZGF0YS5nZWRpcy5zZXR0aW5nc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZB8xTGl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L1VzZXJzL2Rpb2dvLm11bmFyby93b3Jrc3BhY2UvZ2VkaXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNjdtTnM/rx7D1Tp2LU54xhLekRT
+external apis:
+0 items
+source infos:
+7 items
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala -> 
+AAAAAAAAAAA=
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala -> 
+AAAAAAAAAAA=
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala -> 
+AAAAAAAAAAA=
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala -> 
+AAAAAAAAAAA=
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala -> 
+AAAAAAAAAAA=
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala -> 
+AAAAAAAAAAA=
+/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZB8xTGl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9kaW9nby5tdW5hcm8vd29ya3NwYWNlL2dlZGlzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

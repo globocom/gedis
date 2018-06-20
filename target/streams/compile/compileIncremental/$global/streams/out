@@ -1,0 +1,93 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala, /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 7 sources: invalidated sources (7) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 7 Scala sources to /Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.11.11[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.11.11[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler f099b56, interfacing (CompilerInterface) with Scala compiler version 2.11.11[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/classes:/Users/diogo.munaro/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/diogo.munaro/workspace/gedis/target/scala-2.11/classes:/Users/diogo.munaro/.ivy2/cache/redis.clients/jedis/jars/jedis-2.9.0.jar:/Users/diogo.munaro/.ivy2/cache/org.apache.commons/commons-pool2/jars/commons-pool2-2.4.2.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 8.725398615 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	del, notify, wait, sadd, $asInstanceOf, equals, hmset, asInstanceOf, hincrby, set, hsetnx, lrange, synchronized, $isInstanceOf, hkeys, hget, notifyAll, pipeline, lpush, smembers, isInstanceOf, GedisClient, <init>, mget, hset, ==, clone, exists, toString, incrby, !=, get, RedisClient, getClass, hgetall, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala: Set(GedisClient, <init>)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, jedis, synchronized, $isInstanceOf, instance, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, JedisFactory, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala: Set(jedis, instance, <init>, JedisFactory)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClientProvider.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, withPipeline, synchronized, $isInstanceOf, notifyAll, withClient, isInstanceOf, <init>, GedisClientProvider, ==, clone, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/GedisClient.scala: Set(withPipeline, withClient, <init>, GedisClientProvider)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala: Set(<init>, GedisClientProvider)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, copy$default$2, $asInstanceOf, copy$default$5, productArity, equals, SingleSettings, asInstanceOf, host, synchronized, $isInstanceOf, canEqual, copy$default$4, productPrefix, notifyAll, isInstanceOf, <init>, port, ==, clone, $init$, copy$default$3, copy, toString, connectionTimeout, !=, getClass, socketTimeout, copy$default$1, ne, eq, productIterator, ##, finalize, productElement, hashCode, password.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala: Set(SingleSettings, host, <init>, port, connectionTimeout, socketTimeout, password)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala: Set(SingleSettings, <init>)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, <init>$default$1, equals, asInstanceOf, synchronized, $isInstanceOf, instance, notifyAll, isInstanceOf, client$default$2, <init>, ==, clone, client, GedisClientFactory, client$default$1, errorCallback, toString, !=, getClass, ne, <init>$default$2, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, copy$default$2, $asInstanceOf, copy$default$5, PoolSettings, productArity, master, equals, maxWaitInMillis, asInstanceOf, synchronized, $isInstanceOf, canEqual, copy$default$4, productPrefix, maxTotal, notifyAll, maxIdle, isInstanceOf, <init>, ==, clone, pool, $init$, SentinelSettings, copy$default$3, copy, toString, connectionTimeout, !=, sentinels, getClass, socketTimeout, copy$default$1, copy$default$6, ne, minIdle, eq, productIterator, ##, finalize, productElement, hashCode, password.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala: Set(PoolSettings, <init>, pool, connectionTimeout, socketTimeout, password)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/JedisFactory.scala: Set(PoolSettings, master, maxWaitInMillis, maxTotal, maxIdle, <init>, pool, SentinelSettings, connectionTimeout, sentinels, socketTimeout, minIdle, password)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/EnhancedRedisClientFactory.scala: Set(<init>, SentinelSettings)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/DefaultSettings.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, host, synchronized, $isInstanceOf, DefaultSettings, notifyAll, isInstanceOf, <init>, port, ==, clone, pool, toString, connectionTimeout, !=, getClass, socketTimeout, ne, eq, ##, finalize, hashCode, password.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SingleSettings.scala: Set(asInstanceOf, host, DefaultSettings, isInstanceOf, <init>, port, ==, toString, connectionTimeout, socketTimeout, eq, password)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/diogo.munaro/workspace/gedis/src/main/scala/com/globo/bigdata/gedis/settings/SentinelSettings.scala: Set(asInstanceOf, DefaultSettings, isInstanceOf, <init>, ==, pool, toString, connectionTimeout, socketTimeout, eq, password)[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
