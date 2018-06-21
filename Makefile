@@ -1,4 +1,4 @@
-.PHONY: test build compile release deploy
+.PHONY: test build compile release
 
 SBT_CLIENT := $(shell which sbt)
 
@@ -13,6 +13,3 @@ compile:
 
 release:
 	@$(SBT_CLIENT) release
-
-deploy:
-	@echo "NOT IMPLEMENTED!!!"
