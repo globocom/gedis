@@ -1,6 +1,6 @@
 package com.globo.bigdata.gedis
 
-import redis.clients.jedis.Pipeline
+import redis.clients.jedis.{Jedis, JedisSentinelPool, Pipeline}
 
 trait RedisClient {
   def exists(key: String): Boolean
@@ -114,4 +114,16 @@ class GedisClient(provider: GedisClientProvider) extends RedisClient {
   def pipeline[T](pipelinedFunction: (Pipeline) => T): Unit = {
     provider.withPipeline(pipelinedFunction)
   }
+}
+
+object GedisClient {
+
+  def apply(pool : Option[JedisSentinelPool] = None, single : Option[Jedis] = None, errorCallback: (Throwable) => Unit = (t: Throwable) => {}): GedisClient = {
+    if (pool.isEmpty && single.isEmpty){
+      throw new Exception("Neither sentinel pool or single Jedis defined")
+    } else {
+      new GedisClient(new GedisClientProvider(pool, single, errorCallback))
+    }
+  }
+
 }
