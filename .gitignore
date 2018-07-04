@@ -6,3 +6,6 @@ build/*
 *.iml
 project/project/*
 project/target/*
+*.zip
+# Sonar
+.scannerwork
