@@ -1,4 +1,4 @@
-.PHONY: test build compile release
+.PHONY: test build compile snapshot release
 
 SBT_CLIENT := $(shell which sbt)
 
@@ -11,8 +11,11 @@ build:
 compile:
 	@$(SBT_CLIENT) clean compile
 
+snapshot:
+    @$(SBT_CLIENT) publishSigned
+
 release:
-	@$(SBT_CLIENT) release
+	@$(SBT_CLIENT) sonatypeRelease
 
 sonar:
 	@$(SBT_CLIENT) clean coverage test coverageReport scapegoat sonarScan
