@@ -5,8 +5,24 @@ val buildSettings = Seq(
   scalaVersion := compilerVersion,
   description := "Scala connector for Redis",
   organization := "com.globo.bigdata",
+  sonatypeProfileName := "com.globo",
   organizationName := "Globo.com",
-  homepage := None,
+  useGpg := true,
+  pomExtra in ThisBuild := {
+    <url>https://github.com/globocom/gedis</url>
+    <scm>
+      <connection>scm:git:github.com/globocom/gedis.git</connection>
+      <developerConnection>scm:git:git@github.com/globocom/gedis.git</developerConnection>
+      <url>https://github.com/globocom/gedis</url>
+    </scm>
+    <developers>
+      <developer>
+        <id>dmvieira</id>
+        <name>Diogo Munaro Vieira</name>
+        <url>https://github.com/dmvieira</url>
+      </developer>
+    </developers>
+  },
   resolvers := Resolvers.defaultResoulvers,
   libraryDependencies ++= Dependencies.rootDependencies,
   run in Compile := Defaults.runTask(fullClasspath in Compile, mainClass in(Compile, run), runner in(Compile, run)).evaluated,
