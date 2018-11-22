@@ -5,7 +5,7 @@ Resilient Jedis adapter for Scala made with love :heart: by Globo.com
 
 Add in sbt dependency: 
 ```
-"com.globo.bigdata" %% "gedis" % "0.0.2"
+"com.globo.bigdata" %% "gedis" % "0.0.4"
 ```
 
 ## Usage
