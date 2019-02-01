@@ -176,6 +176,16 @@ class GedisClientITSpec extends IntegrationSpec {
       enhancedClient().get("keyincr") should be(Some("2"))
     }
 
+    it("set-key-ttl"){
+      enhancedClient().set("key-with-ttl", "val")
+      enhancedClient().set("key-without-ttl", "val")
+      enhancedClient().expires("key-with-ttl",10)
+
+      enhancedClient().ttl("key-with-ttl") should be (10L)
+      enhancedClient().ttl("nonexistent-key") should be (-2L)
+      enhancedClient().ttl("key-without-ttl") should be (-1L)
+    }
+
   }
 
 }

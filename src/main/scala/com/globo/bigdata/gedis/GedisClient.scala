@@ -114,6 +114,14 @@ class GedisClient(provider: GedisClientProvider) extends RedisClient {
   def pipeline[T](pipelinedFunction: (Pipeline) => T): Unit = {
     provider.withPipeline(pipelinedFunction)
   }
+
+  def expires(key: String, ttl:Int): Unit = {
+    provider.withClient(c => c.expire(key, ttl))
+  }
+
+  def ttl(key: String): Long = {
+    provider.withClient(c => c.ttl(key))
+  }
 }
 
 object GedisClient {
