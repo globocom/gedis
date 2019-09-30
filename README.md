@@ -1,4 +1,5 @@
 # Gedis
+[![Build Status](https://travis-ci.com/globocom/gedis.svg?branch=master)](https://travis-ci.com/globocom/gedis)
 Resilient Jedis adapter for Scala made with love :heart: by Globo.com
 
 ## Install
@@ -29,3 +30,7 @@ All Jedis commands are supported and are simple as:
 ```
 client.get("key")
 ```
+
+## Contribute
+
+For development and contributing, please follow [Contributing Guide](https://github.com/globocom/gedis/blob/master/CONTRIBUTING.md) and ALWAYS respect the [Code of Conduct](https://github.com/globocom/gedis/blob/master/CODE_OF_CONDUCT.md)
