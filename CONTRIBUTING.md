@@ -50,8 +50,8 @@ chances of your issue being dealt with quickly:
 
 * **Overview of the issue** - if an error is being thrown a non-minified stack trace helps
 * **Motivation for or Use Case** - explain why this is a bug for you
-* **GHDFS Version(s)** - is it a regression?
-* **Hadoop Version in use** - is this a problem with all hadoop versions or only 2.7.3?
+* **Gedis Version(s)** - is it a regression?
+* **Redis Version in use** - is this a problem with all redis versions or only with Redis 3.2.12 with Sentinel?
 * **Reproduce the error** - provide a live example, screenshot, and/or a unambiguous set of steps. The more the better.
 * **Related issues** - has a similar issue been reported before?  Reference the related issues in the description.
 * **Suggest a Fix** - if you can't fix the bug yourself, perhaps you can point to what might be
@@ -60,7 +60,7 @@ chances of your issue being dealt with quickly:
 ## Submitting a Pull Request
 Before you submit your pull request consider the following guidelines:
 
-* Search [GitHub](https://github.com/globocom/ghdfs/pulls) for an open or closed Pull Request that relates to your submission. You don't want to duplicate effort.
+* Search [GitHub](https://github.com/globocom/gedis/pulls) for an open or closed Pull Request that relates to your submission. You don't want to duplicate effort.
 * Make your changes in a new git branch
 
      ```shell
@@ -68,7 +68,7 @@ Before you submit your pull request consider the following guidelines:
      ```
 
 * Create your patch, **including appropriate test cases**.
-* Follow our [Code Style](https://github.com/globocom/ghdfs/blob/master/scalastyle-config.xml).
+* Follow our [Code Style](https://github.com/globocom/gedis/blob/master/scalastyle-config.xml).
 * Run the full test suite, including `make test`,
   and ensure that all tests pass.
 * Commit your changes using a descriptive commit message
