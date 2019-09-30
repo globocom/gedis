@@ -1,4 +1,5 @@
 # Gedis
+
 [![Build Status](https://travis-ci.com/globocom/gedis.svg?branch=master)](https://travis-ci.com/globocom/gedis)
 Resilient Jedis adapter for Scala made with love :heart: by Globo.com
 
