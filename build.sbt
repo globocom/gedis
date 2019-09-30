@@ -1,4 +1,4 @@
-val compilerVersion = "2.11.11"
+val compilerVersion = "2.11.12"
 
 val buildSettings = Seq(
   name := "Gedis",
