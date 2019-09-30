@@ -17,4 +17,5 @@ snapshot:
 release:
 	@$(SBT_CLIENT) sonatypeRelease
 
-ci: clean coverage test coverageReport scapegoat
+ci:
+	@$(SBT_CLIENT) clean coverage test coverageReport scapegoat
