@@ -2,7 +2,7 @@ import sbt._
 object Dependencies {
 
   val projectDependencies = Seq(
-    "redis.clients" % "jedis" % "2.9.0"
+    "redis.clients" % "jedis" % "3.1.0"
   )
 
   val testsDependencies = Seq(
