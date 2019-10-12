@@ -9,3 +9,7 @@ project/target/*
 *.zip
 # Sonar
 .scannerwork
+
+# Metals
+.bloop
+.metals

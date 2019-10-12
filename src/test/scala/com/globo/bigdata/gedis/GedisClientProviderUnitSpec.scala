@@ -1,9 +1,9 @@
 package com.globo.bigdata.gedis
 
 import org.mockito.ArgumentMatchers.any
-import org.mockito.Mockito.{doReturn, doThrow, never, verify, reset}
+import org.mockito.Mockito.{doReturn, doThrow, never, reset, verify}
 import org.scalatest.BeforeAndAfterEach
-import redis.clients.jedis.{Jedis, JedisSentinelPool, Pipeline}
+import redis.clients.jedis.{Jedis, JedisCluster, JedisSentinelPool, Pipeline}
 import utils.UnitSpec
 
 /**
@@ -11,7 +11,7 @@ import utils.UnitSpec
  */
 class GedisClientProviderUtilsSpec {
   def catchError(t : Throwable) = {}
-  def executeWithJedis(jedis : Jedis) = {}
+  def executeWithJedisAdapter(adapter : JedisClientAdapter) = {}
   def executeWithPipeline(pipeline : Pipeline) = {}
 }
 
@@ -30,23 +30,24 @@ class GedisClientProviderSpec extends UnitSpec with BeforeAndAfterEach {
 
   describe("withClient-jedis") {
     val jedis = mock[Jedis]
-    val provider = new GedisClientProvider(single = Some(jedis), errorCallback = helper.catchError)
+    val jedisAdapter = new JedisClientAdapter(single = Some(jedis))
+    val provider = new GedisClientProvider(jedisAdapter, errorCallback = helper.catchError)
 
     it("execute-operation") {
-      provider.withClient(helper.executeWithJedis)
+      provider.withClient(helper.executeWithJedisAdapter)
 
-      verify(helper).executeWithJedis(jedis)
+      verify(helper).executeWithJedisAdapter(jedisAdapter)
       verify(helper, never()).catchError(any())
     }
 
     it("execute-error-callback") {
-      doThrow(exception).when(helper).executeWithJedis(any())
+      doThrow(exception).when(helper).executeWithJedisAdapter(any())
 
       a [RuntimeException] should be thrownBy {
-        provider.withClient(helper.executeWithJedis)
+        provider.withClient(helper.executeWithJedisAdapter)
       }
 
-      verify(helper).executeWithJedis(jedis)
+      verify(helper).executeWithJedisAdapter(jedisAdapter)
       verify(helper).catchError(exception)
     }
 
@@ -55,37 +56,63 @@ class GedisClientProviderSpec extends UnitSpec with BeforeAndAfterEach {
   describe("withClient-pool") {
     val pool = mock[JedisSentinelPool]
     val jedis = mock[Jedis]
-    val provider = new GedisClientProvider(pool = Some(pool), errorCallback = helper.catchError)
+    val jedisAdapter = new JedisClientAdapter(pool = Some(pool))
+    val provider = new GedisClientProvider(jedisAdapter, errorCallback = helper.catchError)
 
     doReturn(jedis, Nil: _*).when(pool).getResource
 
     it("execute-operation") {
-      provider.withClient(helper.executeWithJedis)
+      provider.withClient(helper.executeWithJedisAdapter)
 
-      verify(helper).executeWithJedis(jedis)
+      verify(helper).executeWithJedisAdapter(jedisAdapter)
       verify(jedis).close()
       verify(helper, never()).catchError(any())
     }
 
     it("execute-error-callback") {
-      doThrow(exception).when(helper).executeWithJedis(any())
+      doThrow(exception).when(helper).executeWithJedisAdapter(any())
 
       a [RuntimeException] should be thrownBy {
-        provider.withClient(helper.executeWithJedis)
+        provider.withClient(helper.executeWithJedisAdapter)
       }
 
-      verify(helper).executeWithJedis(jedis)
+      verify(helper).executeWithJedisAdapter(jedisAdapter)
       verify(jedis).close()
       verify(helper).catchError(exception)
     }
   }
 
-  describe("withPipeline") {
-    val jedis = mock[Jedis]
-    val pipeline = mock[Pipeline]
-    val provider = new GedisClientProvider(single = Some(jedis), errorCallback = helper.catchError)
+  describe("withClient-cluster") {
+    val cluster = mock[JedisCluster]
+    val jedisAdapter = new JedisClientAdapter(cluster = Some(cluster))
+    val provider = new GedisClientProvider(jedisAdapter, errorCallback = helper.catchError)
 
-    doReturn(pipeline, Nil: _*).when(jedis).pipelined
+    it("execute-operation") {
+      provider.withClient(helper.executeWithJedisAdapter)
+
+      verify(helper).executeWithJedisAdapter(jedisAdapter)
+      verify(helper, never()).catchError(any())
+    }
+
+    it("execute-error-callback") {
+      doThrow(exception).when(helper).executeWithJedisAdapter(any())
+
+      a [RuntimeException] should be thrownBy {
+        provider.withClient(helper.executeWithJedisAdapter)
+      }
+
+      verify(helper).executeWithJedisAdapter(jedisAdapter)
+      verify(helper).catchError(exception)
+    }
+  }
+
+
+  describe("withPipeline") {
+    val pipeline = mock[Pipeline]
+    val jedisAdapter = mock[JedisClientAdapter]
+    val provider = new GedisClientProvider(jedisAdapter, errorCallback = helper.catchError)
+
+    doReturn(pipeline, Nil: _*).when(jedisAdapter).pipelined
 
     it("execute-operations") {
       provider.withPipeline(helper.executeWithPipeline)

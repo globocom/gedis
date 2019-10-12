@@ -1,7 +1,7 @@
 package com.globo.bigdata.gedis
 
-import com.globo.bigdata.gedis.settings.{SingleSettings, PoolSettings, SentinelSettings}
-import redis.clients.jedis.{Jedis, JedisPoolConfig, JedisSentinelPool, Protocol}
+import com.globo.bigdata.gedis.settings.{ClusterSettings, PoolSettings, SentinelSettings, SingleSettings}
+import redis.clients.jedis.{Jedis, JedisCluster, JedisPoolConfig, JedisSentinelPool, Protocol}
 
 /**
  * Jedis factory object
@@ -34,6 +34,17 @@ class JedisFactory {
    */
   def jedis(s : SingleSettings) : Jedis = {
     new Jedis(s.host, s.port, s.connectionTimeout, s.socketTimeout)
+  }
+
+  /**
+   * Create Jedis Cluster client
+   *
+   * @param s Cluster settings
+   * @return
+   */
+  def jedis(s: ClusterSettings) : JedisCluster = {
+    import scala.collection.JavaConverters._
+    new JedisCluster(s.clusterNodes.asJava, s.connectionTimeout, s.socketTimeout, s.maxAttempts, s.password.get, jedisPool(s.pool))
   }
 
   /**
