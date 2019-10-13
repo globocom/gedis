@@ -10,6 +10,11 @@ import org.scalatest.junit.JUnitRunner
 import org.scalatest.mockito.MockitoSugar
 import redis.embedded.RedisServer
 
+/**
+ * Integration test abstraction
+ *
+ * Controls embedded Redis service setup / teardown
+ */
 @RunWith(classOf[JUnitRunner])
 abstract class IntegrationSpec extends FunSpec
 with OneInstancePerTest

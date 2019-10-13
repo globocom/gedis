@@ -3,6 +3,10 @@ package com.globo.bigdata.gedis
 import redis.clients.jedis.Pipeline
 import utils.IntegrationSpec
 
+/**
+ * Integrations tests for [[GedisClient]]
+ * @see [[IntegrationSpec]]
+ */
 class GedisClientITSpec extends IntegrationSpec {
 
   describe("enhanced-client-integrated-with-embedded-redis"){

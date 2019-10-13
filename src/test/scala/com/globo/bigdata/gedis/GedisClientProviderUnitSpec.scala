@@ -6,12 +6,19 @@ import org.scalatest.BeforeAndAfterEach
 import redis.clients.jedis.{Jedis, JedisSentinelPool, Pipeline}
 import utils.UnitSpec
 
+/**
+ * Utility test class
+ */
 class GedisClientProviderUtilsSpec {
   def catchError(t : Throwable) = {}
   def executeWithJedis(jedis : Jedis) = {}
   def executeWithPipeline(pipeline : Pipeline) = {}
 }
 
+/**
+ * Unity tests for [[GedisClientProvider]]
+ * @see [[UnitSpec]]
+ */
 class GedisClientProviderSpec extends UnitSpec with BeforeAndAfterEach {
 
   val exception = new RuntimeException()
