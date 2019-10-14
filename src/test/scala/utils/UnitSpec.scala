@@ -6,6 +6,9 @@ import org.scalatest.junit.JUnitRunner
 import org.scalatest.mockito.MockitoSugar
 import org.scalatest.{BeforeAndAfter, FunSpec, Matchers, OneInstancePerTest}
 
+/**
+ * Unity test abstraction
+ */
 @RunWith(classOf[JUnitRunner])
 abstract class UnitSpec extends FunSpec
   with OneInstancePerTest
