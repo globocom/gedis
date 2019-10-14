@@ -1,5 +1,8 @@
 package com.globo.bigdata.gedis.settings
 
+/**
+ * Default connection settings object
+ */
 object DefaultSettings {
   val host : String = "localhost"
   val port : Int = 6379
