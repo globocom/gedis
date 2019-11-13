@@ -52,6 +52,6 @@ with MockitoSugar {
     * @return
     */
   override def beforeEach(): Unit = {
-    enhancedClient().pipeline(p => { p.flushAll() })//Clear
+   enhancedClient().pipeline(p => { p.flushAll() })//Clear
   }
 }

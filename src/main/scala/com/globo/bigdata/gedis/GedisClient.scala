@@ -1,6 +1,6 @@
 package com.globo.bigdata.gedis
 
-import redis.clients.jedis.{Jedis, JedisSentinelPool, Pipeline}
+import redis.clients.jedis.{Jedis, JedisCluster, JedisSentinelPool, Pipeline}
 
 /**
  * Base Redis client contract
@@ -347,11 +347,11 @@ object GedisClient {
    * @param errorCallback error handler
    * @return new Gedis client
    */
-  def apply(pool: Option[JedisSentinelPool] = None, single: Option[Jedis] = None, errorCallback: (Throwable) => Unit = (t: Throwable) => {}): GedisClient = {
-    if (pool.isEmpty && single.isEmpty) {
-      throw new Exception("Neither sentinel pool or single Jedis defined")
+  def apply(cluster : Option[JedisCluster] = None, pool : Option[JedisSentinelPool] = None, single : Option[Jedis] = None, errorCallback: (Throwable) => Unit = (t: Throwable) => {}): GedisClient = {
+    if (cluster.isEmpty && pool.isEmpty && single.isEmpty){
+      throw new Exception("Neither cluster, sentinel pool or single Jedis defined")
     } else {
-      new GedisClient(new GedisClientProvider(pool, single, errorCallback))
+      new GedisClient(new GedisClientProvider(new JedisClientAdapter(cluster, pool, single), errorCallback))
     }
   }
 
